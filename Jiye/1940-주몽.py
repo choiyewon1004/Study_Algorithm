@@ -1,6 +1,5 @@
 # 1940 - 주몽
 
-
 import sys
 input = sys.stdin.readline
 N = int(input());
